@@ -5,8 +5,5 @@
   <img height="180px"  width="46%"  style="max-width: 48%;margin-left: 4%;display: inline-block" src="https://emarcarini.vercel.app/api/top-langs/?username=designfas&layout=compact&langs_count=7&count_private=true&theme=tokyonight&border_radius=8&locale=pt-br"/>
         
  <div>
-</div>
-<img width="100%" src="https://github.com/emarcarini/emarcarini/blob/output/github-contribution-grid-snake.svg"/>
-</div>
 
  
