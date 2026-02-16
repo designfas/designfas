@@ -1,0 +1,27 @@
+{
+  "username": "designfas",
+  "style": "terminal",
+  "styleText": "Desenvolvedor front-end com mais de 11 anos de experiência na criação de interfaces escaláveis, rápidas e orientadas a conversão. Atuo com foco em performance, acessibilidade, SEO técnico e arquitetura de código sustentável.\n\nEspecialista em WordPress — desde temas e plugins customizados até estruturas completas em ecossistemas complexos. Domínio avançado de JavaScript (ES6+), React, Tailwind CSS, ACF, WooCommerce, além de integrações com APIs, otimização de build e desenvolvimento de blocos Gutenberg.",
+  "sections": {
+    "ascii": {
+      "enabled": true,
+      "text": "designfas",
+      "font": "Speed",
+      "showCats": false
+    },
+    "stats": {
+      "enabled": true,
+      "showCommits": true,
+      "showStars": false,
+      "showFollowers": false
+    },
+    "languages": {
+      "enabled": true,
+      "topN": 5
+    },
+    "activity": {
+      "enabled": true,
+      "limit": 5
+    }
+  }
+}
